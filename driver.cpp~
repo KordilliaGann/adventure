@@ -14,7 +14,7 @@ double spelunk();
 
 int main()
 {
-
+    cout << menu() << endl;
     return 0;
 }
 

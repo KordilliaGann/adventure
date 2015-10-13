@@ -59,7 +59,6 @@ int main()
     5210 total
     */
 
-    menu();
     return 0;
 }
 
